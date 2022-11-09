@@ -17,7 +17,7 @@
 
 * apt install git
 
-* git clone https://github.com/Cyber-Anonymous/Dark-Phish.git
+* git clone https://github.com/fmfahim/Dark-Phish.git
 
 * pip3 install requests
 
